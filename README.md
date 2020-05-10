@@ -1,39 +1,64 @@
-<img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
+3D DREAMS 3d printing service
 
-Welcome USER_NAME,
+A small company that desing 3d models and print it in a diferent variety of materials and colours, pretends to cover from decoration purposes to spare parts in rc drones etc...
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project.
 
-## Gitpod Reminders
+UX
+I provide the users all the information about the materials that we work with, so they will submit their ideas or paints about the project they need and we will make it
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+for example
+A owner of a restaurant wants to make a 3d printed logo with the tittle of the company then we will make a few desings for him with the previous ideas or pictures that he send and we will print it in 3d and send it to his addressç
 
-`python3 -m http.server`
+Features
+In this section, you should go over the different parts of your project, and describe each in a sentence or so.
 
-A blue button should appear to click: *Make Public*,
+Existing Features
+Feature 1 - allows users X to achieve Y, by having them fill out Z
+...
+For some/all of your features, you may choose to reference the specific project files that implement them, although this is entirely optional.
 
-Another blue button should appear to click: *Open Browser*.
+In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+Features Left to Implement
+Another feature idea
+Technologies Used
+In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
 
-A blue button should appear to click: *Make Public*,
+JQuery
+The project uses JQuery to simplify DOM manipulation.
+Testing
+In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
 
-Another blue button should appear to click: *Open Browser*.
+Whenever it is feasible, prefer to automate your tests, and if you've done so, provide a brief explanation of your approach, link to the test file(s) and explain how to run them.
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the backend lessons.
+For any scenarios that have not been automated, test the user stories manually and provide as much detail as is relevant. A particularly useful form for describing your testing process is via scenarios, such as:
 
-## Updates Since The Instructional Video
+Contact form:
+Go to the "Contact Us" page
+Try to submit the empty form and verify that an error message about the required fields appears
+Try to submit the form with an invalid email address and verify that a relevant error message appears
+Try to submit the form with all inputs valid and verify that a success message appears.
+In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
 
-We continually tweak and adjust this template to help give you the best experience. Here are the updates since the original video was made:
+You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
+If this section grows too long, you may want to split it off into a separate file and link to it from here.
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
+Deployment
+This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
+In particular, you should provide all details of the differences between the deployed version and the development version, if any, including:
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
+Different values for environment variables (Heroku Config Vars)?
+Different configuration files?
+Separate git branch?
+In addition, if it is not obvious, you should also describe how to run your code locally.
 
---------
-
-Happy coding!
+Credits
+Content
+The text for section Y was copied from the Wikipedia article Z
+Media
+The photos used in this site were obtained from 
+https://www.forbes.com/sites/marcoannunziata/2019/12/17/2020-the-year-ahead-in-3d-printing/
+Acknowledgements
+I received inspiration for this project from X
