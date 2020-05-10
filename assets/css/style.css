@@ -119,16 +119,20 @@ header {
 
 .name {
     font-family: "Exo", sans-serif;
-    background-position: center;
+    background-position:  center;
+    background-repeat: no-repeat;
+    background-size: cover;
     font-weight: 100;
-    font-size: 46px;
-    margin-top: 50px;
+    font-size: 56px;
+    margin-top: 60px;
     color: #fff;
 }
 
 .title {
     font-family: "Roboto", sans-serif;
-    background-position: center;
+    background-position:  right;
+    background-repeat:  no-repeat;
+    background-size:  auto;
     font-weight: 200;
     font-size: 28px;
     margin-top: 20px;

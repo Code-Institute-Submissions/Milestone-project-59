@@ -13,15 +13,14 @@ Features
 In this section, you should go over the different parts of your project, and describe each in a sentence or so.
 
 Existing Features
-Feature 1 - allows users X to achieve Y, by having them fill out Z
+Feature 1 - Allows people to see all the materials we have
 ...
 For some/all of your features, you may choose to reference the specific project files that implement them, although this is entirely optional.
 
 In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
 
 Features Left to Implement
-Another feature idea
-Technologies Used
+A space like paint that users can draw their ideas and submit 
 In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
 
 JQuery
@@ -61,4 +60,4 @@ Media
 The photos used in this site were obtained from 
 https://www.forbes.com/sites/marcoannunziata/2019/12/17/2020-the-year-ahead-in-3d-printing/
 Acknowledgements
-I received inspiration for this project from X
+I use the template for the cv of rosie
