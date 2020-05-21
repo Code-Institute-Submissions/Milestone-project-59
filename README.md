@@ -1,63 +1,74 @@
-3D DREAMS 3d printing service
+![amiresp](https://user-images.githubusercontent.com/60824654/82601878-81a75d00-9bb0-11ea-9bf8-26a9d61f882d.jpg)
 
-A small company that desing 3d models and print it in a diferent variety of materials and colours, pretends to cover from decoration purposes to spare parts in rc drones etc...
-
+This site will be an ongoing dynamic page, desingned to offer a 3d printing service
 
 UX
-I provide the users all the information about the materials that we work with, so they will submit their ideas or paints about the project they need and we will make it
+The purpose of the site is to provide a simple, easy to use format for users that want a 3d printed design.
 
-for example
-A owner of a restaurant wants to make a 3d printed logo with the tittle of the company then we will make a few desings for him with the previous ideas or pictures that he send and we will print it in 3d and send it to his addressç
-
+User Stories
+As a customer, I want to desing my logo in 3d  
 Features
-In this section, you should go over the different parts of your project, and describe each in a sentence or so.
-
 Existing Features
-Feature 1 - Allows people to see all the materials we have
-...
-For some/all of your features, you may choose to reference the specific project files that implement them, although this is entirely optional.
+Home page - Shows location of the page and a small presentation
 
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
+Materials -Shows different materials we print and the properties of each one
 
+
+Contact -An e-mail form to send a request for contact to me. 
 Features Left to Implement
-A space like paint that users can draw their ideas and submit 
-In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
+Create -A page with a program like paint or meshmixer that allows users easily to show us their ideas
+Technologies Used
+HTML, or Hyper Text Markup Language: Used to construct all the pages of this web site. For further info on this language;
+https://developer.mozilla.org/en-US/docs/Web/HTML
 
-JQuery
-The project uses JQuery to simplify DOM manipulation.
+CSS, or Cascading Style Sheets: Is used to style various elements on a web page via coloring, fonts, spacing, etc. For further info, see this link; https://www.w3.org/Style/CSS/Overview.en.html
+
+Bootstrap: A CSS framework that assists the programmer in creating responsive, mobile first front-end web sites. https://getbootstrap.com/
+
+Gitpod: An online IDE also used for creating & saving code that runs in a browser, it does not have to be installed on your PC. https://www.gitpod.io/
+
+Git: A version control system for tracking changes in source code during software development. https://git-scm.com/
+
+GitHub: A company that provides hosting for software development version control using Git. It is a subsidiary of Microsoft. https://github.
+
+
+W3C Markup Validation Service Used to run all html and css code thru a validation process looking for errors; https://validator.w3.org/ https://jigsaw.w3.org/css-validator/validator
+
 Testing
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
+http://ami.responsivedesign.is/ has been used to see how the site performs on different Apple devices and their viewports, all pages, links, icons performed as expected on all devices. I also used it to create the AppleDevicesView.png at the top of this Readme.
 
-Whenever it is feasible, prefer to automate your tests, and if you've done so, provide a brief explanation of your approach, link to the test file(s) and explain how to run them.
+Desktop
 
-For any scenarios that have not been automated, test the user stories manually and provide as much detail as is relevant. A particularly useful form for describing your testing process is via scenarios, such as:
+Google Chrome, Internet Edge & Mozilla Firefox browsers; all pages, links on those pages, and footer icon links perform well on all viewport sizes. Developer tools were also used on all browsers for the various viewport sizes.
+Mobile
 
-Contact form:
-Go to the "Contact Us" page
-Try to submit the empty form and verify that an error message about the required fields appears
-Try to submit the form with an invalid email address and verify that a relevant error message appears
-Try to submit the form with all inputs valid and verify that a success message appears.
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
+Used my iPhone6 plus, as well as relative's iPhone X, Android smartphones to test; all pages, links, icons performed well on all devices using various browsers; Safari & Chrome.
+Contact Form
 
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
 
 Deployment
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
+Created a Github account at https:https://github.com/nax977/
 
-In particular, you should provide all details of the differences between the deployed version and the development version, if any, including:
+I uploaded all files to my Github repository located at this url; https://github.com/nax977/Milestone-project/settings that contains this project.
 
-Different values for environment variables (Heroku Config Vars)?
-Different configuration files?
-Separate git branch?
-In addition, if it is not obvious, you should also describe how to run your code locally.
+To publish the project to see it on the web, I then went into the Settings on my respository, scrolled down to the heading, GitHub Pages. Under the Source setting, I used the drop-down menu to select master branch as a publishing source and saved it. Refreshed the github page, and you are then given a url where your page is published; Your site is published at https://github.com/nax977/Milestone-project/settings
 
 Credits
 Content
-The text for section Y was copied from the Wikipedia article Z
+HTML, CSS AND Bootstrap
+
+Google Fonts for font styles; https://fonts.google.com/
+
 Media
-The photos used in this site were obtained from 
-https://www.forbes.com/sites/marcoannunziata/2019/12/17/2020-the-year-ahead-in-3d-printing/
+I download the main image from this website: https://www.forbes.com/sites/anthonykarcz/2019/12/25/5-essential-3d-printing-tips-for-beginners/#74131a1c5867
+Also i took the image from am i responsive 
+
 Acknowledgements
-I use the template for the cv of rosie
+Code Institute Tutors.
+
+Website:https://all3dp.com/1/3d-printing-materials-guide-3d-printer-material/ for information of the diferent materials to print 
+
+Code Institute's Slack Channels and the many studentsa,mentors, tutors and users who contribute to them; the many pinned announcements, pdf files, etc. were of great help. https://app.slack.com/client/T0L30B202/C0L316Z96
+
+Mentor Adegbenga Adeye for site architecture inspiration, programming help and great advice. https://www.linkedin.com/in/asandeepme/
+
